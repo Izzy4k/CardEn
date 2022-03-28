@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lol</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="forgot">Forgot</string>
+    <string name="remember">Remember</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_collection">Добавить новую коллекцию</string>
+    <string name="new_collection">Новая коллекция</string>
+    <string name="change_color">Изменение цвета</string>
+    <string name="save">Сохранить</string>
+    <string name="hint_key">Ключевое слово</string>
+    <string name="enter_title">Введите название</string>
+    <string name="closed">Закрыть</string>
+</resources>
